@@ -21,6 +21,7 @@
 		2062FB242B5F002F006D19A3 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2062FB232B5F002F006D19A3 /* VideoPlayerHelper.swift */; };
 		2062FB262B5F0377006D19A3 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2062FB252B5F0377006D19A3 /* LocationModel.swift */; };
 		209718FA2B66642600EF3A3D /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209718F92B66642600EF3A3D /* MapAnnotationView.swift */; };
+		209718FC2B666CC800EF3A3D /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209718FB2B666CC800EF3A3D /* MotionAnimationView.swift */; };
 		209857F42B497F07003F8CCB /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209857F32B497F07003F8CCB /* AfricaApp.swift */; };
 		209857F62B497F07003F8CCB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209857F52B497F07003F8CCB /* ContentView.swift */; };
 		209857F82B497F08003F8CCB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 209857F72B497F08003F8CCB /* Assets.xcassets */; };
@@ -63,6 +64,7 @@
 		2062FB232B5F002F006D19A3 /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
 		2062FB252B5F0377006D19A3 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		209718F92B66642600EF3A3D /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
+		209718FB2B666CC800EF3A3D /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		209857F02B497F07003F8CCB /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		209857F32B497F07003F8CCB /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		209857F52B497F07003F8CCB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -207,6 +209,7 @@
 				20480E7E2B5EF9A000FD3175 /* VideoListItemView.swift */,
 				2062FB202B5EFF1C006D19A3 /* VideoPlayerView.swift */,
 				209718F92B66642600EF3A3D /* MapAnnotationView.swift */,
+				209718FB2B666CC800EF3A3D /* MotionAnimationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				205B3B3D2B5DC9180056CC50 /* InsetGalleryView.swift in Sources */,
 				20480E7F2B5EF9A000FD3175 /* VideoListItemView.swift in Sources */,
 				209858312B4AAA1B003F8CCB /* CodableBundleExtension.swift in Sources */,
+				209718FC2B666CC800EF3A3D /* MotionAnimationView.swift in Sources */,
 				205B3B3B2B5DC8340056CC50 /* HeadingView.swift in Sources */,
 				2062FB212B5EFF1C006D19A3 /* VideoPlayerView.swift in Sources */,
 			);
